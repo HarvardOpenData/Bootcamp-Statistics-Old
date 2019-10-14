@@ -11,3 +11,9 @@ pip3 install mlxtend
 pip3 install matplotlib
 pip3 install seaborn
 ```
+
+Or run 
+
+```console
+pip3 install -r requirements.txt
+```
